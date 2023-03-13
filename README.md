@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Navatronn
 - 👀 I’m interested in Game Design and Game Programming
-- 🌱 I’m currently learning how to code C++
+- 🌱 I’m currently learning how to code HTML5
 - 💞️ I’m looking to collaborate on Games using the Unity Engine
 - 📫 How to reach me @Navatronn on GitHub
 
